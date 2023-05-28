@@ -1,0 +1,47 @@
+{
+  "question": [
+    "Q1. Where does the Sun rise from?",
+    "Q2. Does the Sun exist?",
+    "Q3. If you mix yellow and blue, What happens?",
+    "Q4. What comes after 'A'?",
+    "Q5. How are you?"
+  ],
+  "answer": [
+    3,
+    1,
+    3,
+    2,
+    1
+  ],
+  "options": [
+
+    [
+      "North",
+      "West",
+      "East",
+      "South"
+    ],
+    [
+      "Yes",
+      "No"
+    ],
+    [
+      "You Get Brown!",
+      "You Get Orange!",
+      "You Get Green!",
+      "You Get Red!"
+    ],
+    [
+      "D",
+      "B",
+      "Z",
+      "E"
+    ],
+    [
+      "Fine",
+      "Good",
+      "Bad",
+      "Great"
+    ]
+  ]
+}

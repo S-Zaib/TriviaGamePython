@@ -1,0 +1,19 @@
+Je futbal kontaktný šport? Áno
+
+Je ofsajd pravidlom vo futbale? Áno
+
+Môže hráč použiť ruky? Nie
+
+Používa sa v futbale červená karta? Áno
+
+Môže brankár držať loptu v rukách neobmedzený čas? Nie
+
+Má každý tím kapitána? Áno
+
+Vyhlasuje sa víťazom tím s najviac gólmi? Áno
+
+Môže byť výsledok futbalového zápasu remíza? Áno
+
+Rozhodujú zápas 3 rozhodcovia? Áno
+
+Používa sa na futbalovom ihrisku rozhodcovský var? Áno
